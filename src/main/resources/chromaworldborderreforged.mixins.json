@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.teampotato.chromaworldborderreforged.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "chromaworldborderreforged.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "MixinWorldRenderer",
+    "embeddium.SodiumGameOptionPagesMixin"
+  ]
+}

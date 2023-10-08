@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="chromaworldborderreforged"
+version="${file.jarVersion}"
+displayName="ChromaWorldBorderReforged"
+authors="TeamPotato"
+description='''
+A Minecraft mod.
+'''
