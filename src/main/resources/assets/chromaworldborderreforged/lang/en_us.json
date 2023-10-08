@@ -1,0 +1,6 @@
+{
+  "options.chromaWorldBorder.speed": "世界边界颜色切换速度",
+  "options.chromaWorldBorder.speed.tooltip": "",
+  "options.chromaWorldBorder.enable": "启用RGB世界边界",
+  "options.chromaWorldBorder.enable.tooltip": ""
+}
